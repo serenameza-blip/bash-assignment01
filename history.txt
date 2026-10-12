@@ -1,366 +1,16 @@
-Script started on Sun Oct 11 18:44:08 2026
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 ~ % [K[?2004heecho " 'Hello Bash!'[?2004l
-Hello Bash!
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 ~ % [K[?2004hppwd[?2004l
-/Users/serenameza
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 ~ % [K[?2004hlls[?2004l
-Applications		GameMakerProjects	Pictures
-assignment-demo		gmpm-lts		Public
-CompSci			IdeaProjects		transcript.txt
-Desktop			Library			transcript01.txt
-Documents		Movies
-Downloads		Music
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 ~ % [K[?2004hccd assignment-demo[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 assignment-demo % [K[?2004hlls[?2004l
-feature.txt	history.txt	README.md
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 assignment-demo % [K[?2004hrrm history.tc xt[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 assignment-demo % [K[?2004hlls[?2004l
-feature.txt	README.md
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 assignment-demo % [K[?2004hrrm feature .txt    .txt[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 assignment-demo % [K[?2004hr lls[?2004l
-README.md
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 assignment-demo % [K[?2004hrrm README.md[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 assignment-demo % [K[?2004hlls[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 assignment-demo % [K[?2004hmmkdi ir 61D   Cod   codify-Ed  ed[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 assignment-demo % [K[?2004hlls[?2004l
-codify-ed
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 assignment-demo % [K[?2004hccd codify-ed[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 codify-ed % [K[?2004hlls[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 codify-ed % [K[?2004hmmkdir bash-assignment01[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 codify-ed % [K[?2004hlls[?2004l
-bash-assignment01
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 codify-ed % [K[?2004hccd bash-assignment-1  01[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hlls[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004httouch README.md meaning-o [Kff-life.txt[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hlls[?2004l
-meaning-of-life.txt	README.md
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hmmv meaning-of-lige  fe.txt hi [Ksstory.txt[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hlls[?2004l
-history.txt	README.md
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hccode.  .[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hi ggit init[?2004l
-Initialized empty Git repository in /Users/serenameza/assignment-demo/codify-ed/bash-assignment01/.git/
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit status[?2004l
-On branch main
-
-No commits yet
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mREADME.md[m
-	[31mhistory.txt[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit add .[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit status[?2004l
-On branch main
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	[32mnew file:   README.md[m
-	[32mnew file:   history.txt[m
-
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit commit -m "Inital com [Kmmit"[?2004l
-[main (root-commit) 9a1a994] Inital commit
- 2 files changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 README.md
- create mode 100644 history.txt
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit checkout -b new-F featu [Krre[?2004l
-Switched to a new branch 'new-feature'
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit branch[?2004l
-[?1h=  main[m[m
-* [32mnew-feature[m[m
-[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004heecho 'This is a new featu [Krre!' ?  > feature.txt[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit add feature.r txt[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit commit -m "Add featur [Kee.txt"[?2004l
-[new-feature a7b4e23] Add feature.txt
- 1 file changed, 1 insertion(+)
- create mode 100644 feature.txt
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit status[?2004l
-On branch new-feature
-nothing to commit, working tree clean
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit switch main[?2004l
-Switched to branch 'main'
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hlls[?2004l
-history.txt	README.md
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit switch       branch[?2004l
-[?1h=* [32mmain[m[m
-  new-feature[m[m
-[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit switch new_ -feature[?2004l
-Switched to branch 'new-feature'
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hlls[?2004l
-feature.txt	history.txt	README.md
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit switch main[?2004l
-Switched to branch 'main'
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hlls[?2004l
-history.txt	README.md
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit merge new-feature[?2004l
-Updating 9a1a994..a7b4e23
-Fast-forward
- feature.txt | 1 [32m+[m
- 1 file changed, 1 insertion(+)
- create mode 100644 feature.txt
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hlls[?2004l
-feature.txt	history.txt	README.md
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit branch[?2004l
-[?1h=* [32mmain[m[m
-  new-feature[m[m
-[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit branch -d new-feature [K[K[?2004l
-Deleted branch new-feature (was a7b4e23).
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit branch[?2004l
-[?1h=* [32mmain[m[m
-[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hlls[?2004l
-feature.txt	history.txt	README.md
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit branch -M main             g  ggit branch[?2004l
-[?1h=* [32mmain[m[m
-[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit remote add origin [7mhtt[7mp[7ms://github.com/serenameza-blip/bash-assignment01.git[27m[K[A[24C[27mh[27mt[27mtp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27ms[27me[27mr[27me[27mn[27ma[27mm[27me[27mz[27ma[27m-[27mb[27ml[27mi[27mp[27m/[27mb[27ma[27ms[27mh[27m-[27ma[27ms[27ms[27mi[27mg[27mn[27mm[27me[27mn[27mt[27m0[27m1[27m.[27mg[27mi[27mt[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit push -u origin main[?2004l
-Enumerating objects: 6, done.
-Counting objects:  16% (1/6)Counting objects:  33% (2/6)Counting objects:  50% (3/6)Counting objects:  66% (4/6)Counting objects:  83% (5/6)Counting objects: 100% (6/6)Counting objects: 100% (6/6), done.
-Delta compression using up to 10 threads
-Compressing objects:  25% (1/4)Compressing objects:  50% (2/4)Compressing objects:  75% (3/4)Compressing objects: 100% (4/4)Compressing objects: 100% (4/4), done.
-Writing objects:  16% (1/6)Writing objects:  33% (2/6)Writing objects:  50% (3/6)Writing objects:  66% (4/6)Writing objects:  83% (5/6)Writing objects: 100% (6/6)Writing objects: 100% (6/6), 469 bytes | 469.00 KiB/s, done.
-Total 6 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
-remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), done.[K
-To https://github.com/serenameza-blip/bash-assignment01.git
- * [new branch]      main -> main
-branch 'main' set up to track 'origin/main'.
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit branch       checkout -b conflict1 [K[K[?2004l
-Switched to a new branch 'conflict1'
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004heecho 'Message from confli [Kcct1' > fes ature.txt[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004heecho -e '# My Headinhg  g/           [7mLine 1\nLine 2[27m[14D[27mL[27mi[27mn[27me[27m [27m1[27m\[27mn[27mL[27mi[27mn[27me[27m [27m2'[1C2' 2' 2' 2' 2' [1C' T'e'x't' 'a'b' [K[A[79Co'v've' 'h'e'' 1'[A[79C[1C[P[10Cve h1' [A[63C[P[11Ce h1' [A[63C[P[12C h1' [A[63C[P[13Ch1' [A[63C[P[14C1' [A[63C[P[15C' [K[A[63CH\nText above h1'[A[64CE\nText above h1'[A[64CA\nText above h1'[A[64CD\nText above h1'[A[64CI\nText above h1'[A[64CN\nText above h1'[A[64CG\nText above h1'[A[64C[?2004l[1B
-HEADING
-Text above h1
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit status[?2004l
-On branch conflict1
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	[31mmodified:   feature.txt[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit add .[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit commit -m "add change [Kss from conflict1"[?2004l
-[conflict1 f17134e] add changes from conflict1
- 1 file changed, 1 insertion(+), 1 deletion(-)
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit push origin conflict1 [K[K[?2004l
-Enumerating objects: 5, done.
-Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
-Delta compression using up to 10 threads
-Compressing objects:  50% (1/2)Compressing objects: 100% (2/2)Compressing objects: 100% (2/2), done.
-Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 330 bytes | 330.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-remote: 
-remote: Create a pull request for 'conflict1' on GitHub by visiting:[K
-remote:      https://github.com/serenameza-blip/bash-assignment01/pull/new/conflict1[K
-remote: 
-To https://github.com/serenameza-blip/bash-assignment01.git
- * [new branch]      conflict1 -> conflict1
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit branch[?2004l
-[?1h=* [32mconflict1[m[m
-  main[m[m
-[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit swith ma      witch main[?2004l
-Switched to branch 'main'
-Your branch is up to date with 'origin/main'.
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hbbit  b  ggit s branch[?2004l
-[?1h=  conflict1[m[m
-* [32mmain[m[m
-[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit checkout -b conflict2 [K[K[?2004l
-Switched to a new branch 'conflict2'
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit branch[?2004l
-[?1h=  conflict1[m[m
-* [32mconflict2[m[m
-  main[m[m
-[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004heecho 'Text from conflict  [K[K[A[79C2 [K'' > feature.txt            [K[A[79C[K[1B[K[A[79C                   e  ggit r branch conflict1[?2004l[1Bfatal: a branch named 'conflict1' already exists
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit g  ggit switch conflict1[?2004l
-Switched to branch 'conflict1'
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004heeco e echo -e "HEADING[7m\n[27m[27m\[27mnText be [Kllow h1'[A[79C[P[16Clow h1' [A[56C'HEADING\nText below h1'[A[57C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1B[1C[1C[1C[1C[1C[1C[1C > README.md[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit status[?2004l
-On branch conflict1
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	[31mmodified:   README.md[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit add .[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit add commit -m "Finish [Keed changes form    rom conflict1"[?2004l
-error: unknown switch `m'
-usage: git add [<options>] [--] <pathspec>...
-
-    -n, --[no-]dry-run    dry run
-    -v, --[no-]verbose    be verbose
-
-    -i, --[no-]interactive
-                          interactive picking
-    -p, --[no-]patch      select hunks interactively
-    --[no-]auto-advance   auto advance to the next file when selecting hunks interactively
-    -U, --unified <n>     generate diffs with <n> lines context
-    --inter-hunk-context <n>
-                          show context between diff hunks up to the specified number of lines
-    -e, --[no-]edit       edit current diff and apply
-    -f, --[no-]force      allow adding otherwise ignored files
-    -u, --[no-]update     update tracked files
-    --[no-]renormalize    renormalize EOL of tracked files (implies -u)
-    -N, --[no-]intent-to-add
-                          record only the fact that the path will be added later
-    -A, --[no-]all        add changes from all tracked and untracked files
-    --[no-]ignore-removal ignore paths removed in the working tree (same as --no-all)
-    --[no-]refresh        don't add, only refresh the index
-    --[no-]ignore-errors  just skip files which cannot be added because of errors
-    --[no-]ignore-missing check if - even missing - files are ignored in dry run
-    --[no-]sparse         allow updating entries outside of the sparse-checkout cone
-    --[no-]chmod (+|-)x   override the executable bit of the listed files
-    --[no-]pathspec-from-file <file>
-                          read pathspec from file
-    --[no-]pathspec-file-nul
-                          with --pathspec-from-file, pathspec elements are separated with NUL character
-
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit g  ggit status[?2004l
-On branch conflict1
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-	[32mmodified:   README.md[m
-
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit commit -m "Adjusted c [Khhanges from conflict1"[?2004l
-[conflict1 504089a] Adjusted changes from conflict1
- 1 file changed, 2 insertions(+)
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit push origin conflict1 [K[K[?2004l
-Enumerating objects: 5, done.
-Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
-Delta compression using up to 10 threads
-Compressing objects:  50% (1/2)Compressing objects: 100% (2/2)Compressing objects: 100% (2/2), done.
-Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 349 bytes | 349.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-To https://github.com/serenameza-blip/bash-assignment01.git
-   f17134e..504089a  conflict1 -> conflict1
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit t c branch[?2004l
-[?1h=* [32mconflict1[m[m
-  conflict2[m[m
-  main[m[m
-[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit switch conflcit3     lit ct2[?2004l
-Switched to branch 'conflict2'
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit branch[?2004l
-[?1h=  conflict1[m[m
-* [32mconflict2[m[m
-  main[m[m
-[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004heecho 'Text from cofn   onflict2 [K'' > feature.txt[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004heecho -e 'MY  HEADING2[7m\n[27m[27m\[27mnText b [Keelow h1 3 2' > README.md[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit status[?2004l
-On branch conflict2
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	[31mmodified:   README.md[m
-	[31mmodified:   feature.txt[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit add .[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit commit -m "Add change [Kss from conflict2"[?2004l
-[conflict2 47598e9] Add changes from conflict2
- 2 files changed, 3 insertions(+), 1 deletion(-)
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit push origin conflict2 [K[K[?2004l
-Enumerating objects: 7, done.
-Counting objects:  14% (1/7)Counting objects:  28% (2/7)Counting objects:  42% (3/7)Counting objects:  57% (4/7)Counting objects:  71% (5/7)Counting objects:  85% (6/7)Counting objects: 100% (7/7)Counting objects: 100% (7/7), done.
-Delta compression using up to 10 threads
-Compressing objects:  50% (1/2)Compressing objects: 100% (2/2)Compressing objects: 100% (2/2), done.
-Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 381 bytes | 381.00 KiB/s, done.
-Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-remote: 
-remote: Create a pull request for 'conflict2' on GitHub by visiting:[K
-remote:      https://github.com/serenameza-blip/bash-assignment01/pull/new/conflict2[K
-remote: 
-To https://github.com/serenameza-blip/bash-assignment01.git
- * [new branch]      conflict2 -> conflict2
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit che    g  ggit c branch[?2004l
-[?1h=  conflict1[m[m
-* [32mconflict2[m[m
-  main[m[m
-[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit checkout        switch main[?2004l
-Switched to branch 'main'
-Your branch is up to date with 'origin/main'.
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit branch[?2004l
-[?1h=  conflict1[m[m
-  conflict2[m[m
-* [32mmain[m[m
-[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit pull origin main[?2004l
-remote: Enumerating objects: 1, done.[K
-remote: Counting objects: 100% (1/1)[Kremote: Counting objects: 100% (1/1), done.[K
-remote: Total 1 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)[K
-Unpacking objects: 100% (1/1)Unpacking objects: 100% (1/1), 891 bytes | 445.00 KiB/s, done.
-From https://github.com/serenameza-blip/bash-assignment01
- * branch            main       -> FETCH_HEAD
-   a7b4e23..cdd2a4e  main       -> origin/main
-Updating a7b4e23..cdd2a4e
-Fast-forward
- README.md   | 2 [32m++[m
- feature.txt | 2 [32m+[m[31m-[m
- 2 files changed, 3 insertions(+), 1 deletion(-)
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit pull origin main[?2004l
-remote: Enumerating objects: 8, done.[K
-remote: Counting objects:  12% (1/8)[Kremote: Counting objects:  25% (2/8)[Kremote: Counting objects:  37% (3/8)[Kremote: Counting objects:  50% (4/8)[Kremote: Counting objects:  62% (5/8)[Kremote: Counting objects:  75% (6/8)[Kremote: Counting objects:  87% (7/8)[Kremote: Counting objects: 100% (8/8)[Kremote: Counting objects: 100% (8/8), done.[K
-remote: Compressing objects:  33% (1/3)[Kremote: Compressing objects:  66% (2/3)[Kremote: Compressing objects: 100% (3/3)[Kremote: Compressing objects: 100% (3/3), done.[K
-remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)[K
-Unpacking objects:  25% (1/4)Unpacking objects:  50% (2/4)Unpacking objects:  75% (3/4)Unpacking objects: 100% (4/4)Unpacking objects: 100% (4/4), 1.88 KiB | 385.00 KiB/s, done.
-From https://github.com/serenameza-blip/bash-assignment01
- * branch            main       -> FETCH_HEAD
-   cdd2a4e..752feed  main       -> origin/main
-Updating cdd2a4e..752feed
-Fast-forward
- README.md | 2 [32m++[m
- 1 file changed, 2 insertions(+)
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hlls[?2004l
-feature.txt	history.txt	README.md
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit branch[?2004l
-[?1h=  conflict1[m[m
-  conflict2[m[m
-* [32mmain[m[m
-[K[?1l>[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004httouch .gitignore[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hlls[?2004l
-feature.txt	history.txt	README.md
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hlls -a[?2004l
-.		.git		feature.txt	README.md
-..		.gitignore	history.txt
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004heecho -e 'secrets/[7m\n[27m[27m\[27mnno-com [Kmmit.txt' > .gitignore[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hccat. gitignore[?2004l
-zsh: command not found: cat.gitignore
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hccat .gitignore[?2004l
-secrets/
-no-commit.txt
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit add .gitignore[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit commit -m "Added .git [Kiignore"[?2004l
-[main bceebcf] Added .gitignore
- 1 file changed, 2 insertions(+)
- create mode 100644 .gitignore
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit push origin main[?2004l
-Enumerating objects: 4, done.
-Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
-Delta compression using up to 10 threads
-Compressing objects:  50% (1/2)Compressing objects: 100% (2/2)Compressing objects: 100% (2/2), done.
-Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 373 bytes | 373.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-To https://github.com/serenameza-blip/bash-assignment01.git
-   752feed..bceebcf  main -> main
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004httouch no-commit.tct  xt[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit status[?2004l
-On branch main
-Your branch is up to date with 'origin/main'.
-
-nothing to commit, working tree clean
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit push origin main[?2004l
-Everything up-to-date
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004hggit status[?2004l
-On branch main
-Your branch is up to date with 'origin/main'.
-
-nothing to commit, working tree clean
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Serenas-MacBook-Air-102.local/Users/serenameza/assignment-demo/codify-ed/bash-assignment01[0m[27m[24m[Jserenameza@Serenas-MacBook-Air-102 bash-assignment01 % [K[?2004heexit[?2004l
-
-Saving session...
-...copying shared history...
-...saving history...truncating history files...
-...completed.
-
-Script done on Sun Oct 11 19:59:21 2026
+ 1026  ls
+ 1027  cd assignment-demo\t
+ 1028  ls
+ 1029  cd codify-ed
+ 1030  ls
+ 1031  cd ~
+ 1032  pwd
+ 1033  git clone https://github.com/serenameza-blip/Tester.git
+ 1034  ls
+ 1035  cd Tester
+ 1036  echo "https://github.com/serenameza-blip/bash-assignment01" > repo.txt
+ 1037  cat repo.txt
+ 1038  echo 'https://github.com/serenameza-blip/bash-assignment01' > repo.txt
+ 1039  bun test
+ 1040  bun install
+ 1041  cd ~/assignment-demo/codify-ed/bash-assignment01
