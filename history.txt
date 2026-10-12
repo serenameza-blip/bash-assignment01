@@ -1,102 +1,253 @@
-eecho " 'Hello Bash!'
-ppwd
-lls
-ccd assignment-demo
-lls
-rrm history.tc xt
-lls
-rrm feature .txt    .txt
-r lls
-rrm README.md
-lls
-mmkdi ir 61D   Cod   codify-Ed  ed
-lls
-ccd codify-ed
-lls
-mmkdir bash-assignment01
-lls
-ccd bash-assignment-1  01
-lls
-ttouch README.md meaning-o ff-life.txt
-lls
-mmv meaning-of-lige  fe.txt hi sstory.txt
-lls
-ccode.  .
-i ggit init
-ggit status
-ggit add .
-ggit status
-ggit commit -m "Inital com mmit"
-ggit checkout -b new-F featu rre
-ggit branch
-eecho 'This is a new featu rre!' ?  > feature.txt
-ggit add feature.r txt
-ggit commit -m "Add featur ee.txt"
-ggit status
-ggit switch main
-lls
-ggit switch       branch
-ggit switch new_ -feature
-lls
-ggit switch main
-lls
-ggit merge new-feature
-lls
-ggit branch
-ggit branch -d new-feature 
-ggit branch
-lls
-ggit branch -M main             g  ggit branch
-ggit remote add origin https://github.com/serenameza-blip/bash-assignment01.githttps://github.com/serenameza-blip/bash-assignment01.git
-ggit push -u origin main
-ggit branch       checkout -b conflict1 
-eecho 'Message from confli cct1' > fes ature.txt
-eecho -e '# My Headinhg  g/           Line 1\nLine 2Line 1\nLine 2'2' 2' 2' 2' 2' ' T'e'x't' 'a'b' o'v've' 'h'e'' 1've h1' e h1'  h1' h1' 1' ' H\nText above h1'E\nText above h1'A\nText above h1'D\nText above h1'I\nText above h1'N\nText above h1'G\nText above h1'
-ggit status
-ggit add .
-ggit commit -m "add change ss from conflict1"
-ggit push origin conflict1 
-ggit branch
-ggit swith ma      witch main
-bbit  b  ggit s branch
-ggit checkout -b conflict2 
-ggit branch
-eecho 'Text from conflict  2 '' > feature.txt                               e  ggit r branch conflict1fatal: a branch named 'conflict1' already exists
-ggit g  ggit switch conflict1
-eeco e echo -e "HEADING\n\nText be llow h1'low h1' 'HEADING\nText below h1' > README.md
-ggit status
-ggit add .
-ggit add commit -m "Finish eed changes form    rom conflict1"
-ggit g  ggit status
-ggit commit -m "Adjusted c hhanges from conflict1"
-ggit push origin conflict1 
-ggit t c branch
-ggit switch conflcit3     lit ct2
-ggit branch
-eecho 'Text from cofn   onflict2 '' > feature.txt
-eecho -e 'MY  HEADING2\n\nText b eelow h1 3 2' > README.md
-ggit status
-ggit add .
-ggit commit -m "Add change ss from conflict2"
-ggit push origin conflict2 
-ggit che    g  ggit c branch
-ggit checkout        switch main
-ggit branch
-ggit pull origin main
-ggit pull origin main
-lls
-ggit branch
-ttouch .gitignore
-lls
-lls -a
-eecho -e 'secrets/\n\nno-com mmit.txt' > .gitignore
-ccat. gitignore
-ccat .gitignore
-ggit add .gitignore
-ggit commit -m "Added .git iignore"
-ggit push origin main
-ttouch no-commit.tct  xt
-ggit status
-ggit push origin main
-ggit status
-eexit
+eecho " 'Hello Bash!'
+
+ppwd
+
+lls
+
+ccd assignment-demo
+
+lls
+
+rrm history.tc xt
+
+lls
+
+rrm feature .txt    .txt
+
+r lls
+
+rrm README.md
+
+lls
+
+mmkdi ir 61D   Cod   codify-Ed  ed
+
+lls
+
+ccd codify-ed
+
+lls
+
+mmkdir bash-assignment01
+
+lls
+
+ccd bash-assignment-1  01
+
+lls
+
+ttouch README.md meaning-o 
+f
+f-life.txt
+
+lls
+
+mmv meaning-of-lige  fe.txt hi 
+s
+story.txt
+
+lls
+
+ccode.  .
+
+i ggit init
+
+ggit status
+
+ggit add .
+
+ggit status
+
+ggit commit -m "Inital com 
+m
+mit"
+
+ggit checkout -b new-F featu 
+r
+re
+
+ggit branch
+
+eecho 'This is a new featu 
+r
+re!' ?  > feature.txt
+
+ggit add feature.r txt
+
+ggit commit -m "Add featur 
+e
+e.txt"
+
+ggit status
+
+ggit switch main
+
+lls
+
+ggit switch       branch
+
+ggit switch new_ -feature
+
+lls
+
+ggit switch main
+
+lls
+
+ggit merge new-feature
+
+lls
+
+ggit branch
+
+ggit branch -d new-feature 
+
+
+ggit branch
+
+lls
+
+ggit branch -M main             g  ggit branch
+
+ggit remote add origin https://github.com/serenameza-blip/bash-assignment01.githttps://github.com/serenameza-blip/bash-assignment01.git
+
+ggit push -u origin main
+
+ggit branch       checkout -b conflict1 
+
+
+eecho 'Message from confli 
+c
+ct1' > fes ature.txt
+
+eecho -e '# My Headinhg  g/           Line 1\nLine 2Line 1\nLine 2'2' 2' 2' 2' 2' ' T'e'x't' 'a'b' 
+o'
+v'
+ve' 'h'e'' 1'
+ve h1' e h1'  h1' h1' 1' ' H\nText above h1'E\nText above h1'A\nText above h1'D\nText above h1'I\nText above h1'N\nText above h1'G\nText above h1'
+
+ggit status
+
+ggit add .
+
+ggit commit -m "add change 
+s
+s from conflict1"
+
+ggit push origin conflict1 
+
+
+ggit branch
+
+ggit swith ma      witch main
+
+bbit  b  ggit s branch
+
+ggit checkout -b conflict2 
+
+
+ggit branch
+
+eecho 'Text from conflict  
+2 
+'
+' > feature.txt            
+
+                   e  ggit r branch conflict1
+fatal: a branch named 'conflict1' already exists
+ggit g  ggit switch conflict1
+
+eeco e echo -e "HEADING\n\nText be 
+l
+low h1'
+low h1' 'HEADING\nText below h1'
+ > README.md
+
+ggit status
+
+ggit add .
+
+ggit add commit -m "Finish 
+e
+ed changes form    rom conflict1"
+
+ggit g  ggit status
+
+ggit commit -m "Adjusted c 
+h
+hanges from conflict1"
+
+ggit push origin conflict1 
+
+
+ggit t c branch
+
+ggit switch conflcit3     lit ct2
+
+ggit branch
+
+eecho 'Text from cofn   onflict2 
+'
+' > feature.txt
+
+eecho -e 'MY  HEADING2\n\nText b 
+e
+elow h1 3 2' > README.md
+
+ggit status
+
+ggit add .
+
+ggit commit -m "Add change 
+s
+s from conflict2"
+
+ggit push origin conflict2 
+
+
+ggit che    g  ggit c branch
+
+ggit checkout        switch main
+
+ggit branch
+
+ggit pull origin main
+
+ggit pull origin main
+
+lls
+
+ggit branch
+
+ttouch .gitignore
+
+lls
+
+lls -a
+
+eecho -e 'secrets/\n\nno-com 
+m
+mit.txt' > .gitignore
+
+ccat. gitignore
+
+ccat .gitignore
+
+ggit add .gitignore
+
+ggit commit -m "Added .git 
+i
+ignore"
+
+ggit push origin main
+
+ttouch no-commit.tct  xt
+
+ggit status
+
+ggit push origin main
+
+ggit status
+
+eexit
+
