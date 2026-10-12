@@ -1,1 +1,1 @@
-Text from conflict2
+Message from conflict1
